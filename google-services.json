@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "956609867281",
+    "project_id": "expo-a4b9c",
+    "storage_bucket": "expo-a4b9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956609867281:android:f61f8958567c40e55d4bb0",
+        "android_client_info": {
+          "package_name": "com.bryanmena.GoogleExpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956609867281-2qempbl11pps3n6v8sshgnbmksmv22fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bryanmena.GoogleExpo",
+            "certificate_hash": "bf2a9218bd721d57240edb56d73ec4f7bcfd10c4"
+          }
+        },
+        {
+          "client_id": "956609867281-p9u615b5gqe3q4qobd5ottl094f2nmrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bryanmena.GoogleExpo",
+            "certificate_hash": "1cd8b73ea000b75a188212e931b6927d19c79828"
+          }
+        },
+        {
+          "client_id": "956609867281-noul2a7in03pnaqjump868sot204bani.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZz7P_Ih_5la2VWJQR78iuMhc6IvIiiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956609867281-noul2a7in03pnaqjump868sot204bani.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
