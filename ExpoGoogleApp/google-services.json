@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428309462438",
+    "project_id": "expoapp-51377",
+    "storage_bucket": "expoapp-51377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428309462438:android:aad50eccec92efb74fa367",
+        "android_client_info": {
+          "package_name": "com.saulcalderon1408.ExpoGoogleApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZdpYRnhpoWNEL1HfJ2gFJq8r1jnTAmPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
